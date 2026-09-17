@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Render Static Site</title>
+</head>
+
+<body>
+
+<h1>Render Static Site</h1>
+
+<p>Name: Daniel Son</p>
+
+<p>
+    GitHub Location:
+    <a href="https://github.com/dson05/Penguins">https://github.com/dson05/Penguins</a>
+</p>
+
+<p>
+    Terpconnect Location:
+    <a href="https://www.terpconnect.umd.edu/~djson721/terpconnect_static_site/">https://www.terpconnect.umd.edu/~djson721/terpconnect_static_site/</a>
+</p>
+
+</body>
+</html>
